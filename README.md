@@ -2,7 +2,7 @@
 
 **Institución Universitaria ITM · Ingeniería de Sistemas · Análisis de Datos · 2026-2**
 **Docente:** Daniel Alexis Nieto Mora
-**Integrantes:** Juan Pablo Robledo Urrego · Andrés Felipe Villa Calderón · María Camila Álvarez Cruz · Duban Guerrero Castro
+**Integrantes:** Juan Pablo Robledo Urrego · Andrés Felipe Villa Calderón · María Camila Álvarez Cruz · Duban Guerra Castro
 
 
 ---
